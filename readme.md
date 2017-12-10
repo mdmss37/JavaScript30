@@ -1,5 +1,5 @@
-01 - JavaScript Drum Kit
-https://stackoverflow.com/questions/33308121/can-you-bind-arrow-functions
+* 01 - JavaScript Drum Kit
+  * https://stackoverflow.com/questions/33308121/can-you-bind-arrow-functions
 
 ![](https://javascript30.com/images/JS3-social-share.png)
 
