@@ -27,8 +27,14 @@ Original repository at [https://github.com/wesbos/JavaScript30](https://github.c
   * https://stackoverflow.com/questions/7687884/add-10-seconds-to-a-javascript-date-object-timeobject
 
 * [03 - CSS Variables](https://mdmss37.github.io/JavaScript30/03%20-%20CSS%20Variables/)
+
   * https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables
   * https://seesparkbox.com/foundry/manageable_utility_systems_with_css_variables
   * https://developer.mozilla.org/en-US/docs/Web/API/Document/documentElement
   * https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/style
   * https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleDeclaration/setProperty
+
+* [04 - Array Cardio Day 1](https://mdmss37.github.io/JavaScript30/04 - Array Cardio Day 1)
+  * http://www.ecma-international.org/ecma-262/6.0/#sec-array.prototype.sort
+  * https://qiita.com/PianoScoreJP/items/f0ff7345229871039672
+  * https://stackoverflow.com/questions/1789945/how-to-check-whether-a-string-contains-a-substring-in-javascript
