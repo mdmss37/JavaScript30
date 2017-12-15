@@ -40,4 +40,4 @@ Original repository at [https://github.com/wesbos/JavaScript30](https://github.c
   * https://qiita.com/PianoScoreJP/items/f0ff7345229871039672
   * https://stackoverflow.com/questions/1789945/how-to-check-whether-a-string-contains-a-substring-in-javascript
 
-* [05 - Flex Panel Gallery](https://mdmss37.github.io/JavaScript30/05 - Flex Panel Gallery/)
+* [05 - Flex Panel Gallery](https://mdmss37.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery/)
