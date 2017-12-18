@@ -43,6 +43,7 @@ Original repository at [https://github.com/wesbos/JavaScript30](https://github.c
 * [05 - Flex Panel Gallery](https://mdmss37.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery/)
 * [06 - Type Ahead](https://mdmss37.github.io/JavaScript30/06%20-%20Type%20Ahead/)
 * [07 - Array Cardio Day two](https://mdmss37.github.io/JavaScript30/07%20-%20Array%20Cardio%20Day%20two)
+* [08 - Fun with HTML5 Canvas](https://mdmss37.github.io/JavaScript30/08%20-%20Fun%20with%20HTML5%20Canvas/)
 
 
 
