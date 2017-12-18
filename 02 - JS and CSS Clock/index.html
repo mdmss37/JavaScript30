@@ -71,6 +71,13 @@
       transition: all 0.05s;
       transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
     }
+    .hour-hand {
+      width: 25%;
+      transform-origin: 150% 200%;
+    }
+    .min-hand {
+      height: 8px;
+    }
 
   </style>
 
@@ -112,7 +119,7 @@
 
       // now = new Date(now.getTime() + 1000)
     }
-    
+    setDate() // set initial hand position
     setInterval(setDate, 1000)
   </script>
 </body>
