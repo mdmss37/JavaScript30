@@ -19,7 +19,7 @@ Original repository at [https://github.com/wesbos/JavaScript30](https://github.c
 
 * [02 - JS and CSS Clock](https://mdmss37.github.io/JavaScript30/02%20-%20JS%20and%20CSS%20Clock/)
 
-  * update initial behavior for hand not to jump from default position(set default hands position as now)
+  * ~~update initial behavior for hand not to jump from default position(set default hands position as now)~~
   * <https://developer.mozilla.org/en-US/docs/Web/CSS/transform/>
   * https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transforms/Using_CSS_transforms
   * https://stackoverflow.com/questions/3506050/how-to-reset-the-style-properties-to-their-css-defaults-in-javascript
