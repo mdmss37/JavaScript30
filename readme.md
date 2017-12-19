@@ -4,8 +4,9 @@
 
 Following along JavaScript 30 Day Challenge.
 
-Course introduction at [https://JavaScript30.com](https://JavaScript30.com)
-Original repository at [https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)
+Course introduction is at [https://JavaScript30.com](https://JavaScript30.com)
+Original repository is at [https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)
+My repository is at [https://github.com/mdmss37/JavaScript30](https://github.com/mdmss37/JavaScript30)
 
 ## Note
 
@@ -44,6 +45,8 @@ Original repository at [https://github.com/wesbos/JavaScript30](https://github.c
 * [06 - Type Ahead](https://mdmss37.github.io/JavaScript30/06%20-%20Type%20Ahead/)
 * [07 - Array Cardio Day two](https://mdmss37.github.io/JavaScript30/07%20-%20Array%20Cardio%20Day%20two)
 * [08 - Fun with HTML5 Canvas](https://mdmss37.github.io/JavaScript30/08%20-%20Fun%20with%20HTML5%20Canvas/)
+* [09 - Dev Tools Domination](https://mdmss37.github.io/JavaScript30/09%20-%20Dev%20Tools%20Domination/)
+  * https://developer.mozilla.org/en-US/docs/Web/API/Console
 
 
 
