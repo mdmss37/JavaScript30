@@ -99,6 +99,60 @@
   </div>
 
 <script>
+  const checkboxes = document.querySelectorAll('.inbox input[type="checkbox"]')
+  console.log(checkboxes)
+  let lastChecked;
+  function handleCheck(e) {
+    
+    let inBetween = false
+    // check if the shift key is down and checking the box
+    if (e.shiftKey && this.checked) {
+      checkboxes.forEach(checkbox => {
+        console.log(checkbox)
+        if (checkbox === this || checkbox === lastChecked) {
+          // turn the inBetween variable on. while true, 
+          inBetween = !inBetween
+          console.log("starting to check them inbetween:", inBetween)
+        }
+        if (inBetween) {checkbox.checked = true}
+      })
+    }
+    lastChecked = this
+  }
+  checkboxes.forEach((checkbox) => {
+    checkbox.addEventListener("click", handleCheck)
+  })
 </script>
 </body>
 </html>
+
+<!--   const checkboxes = document.querySelectorAll(".item input")
+  console.log(checkboxes)
+  function onClick(i, e) {
+    if (!e.shiftKey || !this.checked ) { return }
+    let closestCheckedIdx;
+    checkboxes.forEach((checkbox, j) => {
+      if (j < i && checkbox.checked) {
+        closestCheckedIdx = j
+      }
+    })
+    console.log(closestCheckedIdx)
+    const boxToCheck = Array.prototype.slice.apply(checkboxes, [closestCheckedIdx+1, i])
+    boxToCheck.forEach(checkbox => checkbox.checked = true)
+
+    // checkboxes.forEach((checkbox, j) => {
+    //   console.log(checkbox, j, this)
+    //   if ((j < i) && !(checkbox.checked) && (this.checked) ) { 
+    //     checkbox.checked = true 
+    //   }
+    // })
+    
+  }
+  function onShiftDown (e) {
+    console.log(e.keyCode)
+  }
+  checkboxes.forEach((checkbox, i) => {
+    // checkbox.addEventListener("keydown", onShiftDown)
+    checkbox.addEventListener("click", onClick.bind(checkbox, i))
+  }) -->
+  

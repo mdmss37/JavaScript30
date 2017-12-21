@@ -47,6 +47,5 @@ My repository is at [https://github.com/mdmss37/JavaScript30](https://github.com
 * [08 - Fun with HTML5 Canvas](https://mdmss37.github.io/JavaScript30/08%20-%20Fun%20with%20HTML5%20Canvas/)
 * [09 - Dev Tools Domination](https://mdmss37.github.io/JavaScript30/09%20-%20Dev%20Tools%20Domination/)
   * https://developer.mozilla.org/en-US/docs/Web/API/Console
-
-
-
+* [10 - Hold Shift and Check Checkboxes](https://mdmss37.github.io/JavaScript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/)
+  * https://developer.mozilla.org/en-US/docs/Web/API/NodeList
