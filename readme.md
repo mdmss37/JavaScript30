@@ -49,3 +49,4 @@ My repository is at [https://github.com/mdmss37/JavaScript30](https://github.com
   * https://developer.mozilla.org/en-US/docs/Web/API/Console
 * [10 - Hold Shift and Check Checkboxes](https://mdmss37.github.io/JavaScript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/)
   * https://developer.mozilla.org/en-US/docs/Web/API/NodeList
+* [11 - Custom Video Player](https://mdmss37.github.io/JavaScript30/11%20-%20Custom%20Video%20Player/)
