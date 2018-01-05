@@ -52,3 +52,4 @@ My repository is at [https://github.com/mdmss37/JavaScript30](https://github.com
 * [11 - Custom Video Player](https://mdmss37.github.io/JavaScript30/11%20-%20Custom%20Video%20Player/)
 * [12 - Key Sequence Detection](https://mdmss37.github.io/JavaScript30/12%20-%20Key%20Sequence%20Detection/)
 * [13 - Slide in on Scroll](https://mdmss37.github.io/JavaScript30/13%20-%20Slide%20in%20on%20Scroll/)
+* [14 - JavaScript References VS Copying](https://mdmss37.github.io/JavaScript30/14%20-%20JavaScript%20References%20VS%20Copying/)
