@@ -56,3 +56,4 @@ My repository is at [https://github.com/mdmss37/JavaScript30](https://github.com
 * [15 - LocalStorage](https://mdmss37.github.io/JavaScript30/15%20-%20LocalStorage/)
   * https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API
 * [16 - Mouse Move Shadow](https://mdmss37.github.io/JavaScript30/16%20-%20Mouse%20Move%20Shadow/)
+* [17 - Sort Without Articles](https://mdmss37.github.io/JavaScript30/17%20-%20Sort%20Without%20Articles/)
